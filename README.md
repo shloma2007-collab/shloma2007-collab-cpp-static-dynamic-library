@@ -1,0 +1,1 @@
+# shloma2007-collab-cpp-static-dynamic-library
